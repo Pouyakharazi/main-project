@@ -35,6 +35,18 @@ body {
 /* html {
      margin: 30px;
     } */
+    /* baraye siah kardane yek laye rooye site  */
+  .backdrop {  
+    position: fixed;
+    display: none;
+    top: 0;
+    left: 0;
+    z-index: 100;
+    width: 100vw;
+    height: 100vh;
+    background: rgba(0, 0, 0, 0.5);
+  }
+
 
 .main-header {
   width: 100%;
