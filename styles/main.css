@@ -32,19 +32,19 @@ body {
   color: #ffffff;
 } */
 
-.main-header {
+/* .main-header {
   width: 100%;
   background: #1565c0;
   padding: 0.5rem 1rem;
   position: fixed;
   z-index: 1;
-}
+} */
 
 
-.main-header > div {
+/* .main-header > div {
   display: inline-block;
   vertical-align: middle;
-}
+} */
 
 .main-header__logo {
   color: #e3f2fd;
@@ -52,12 +52,12 @@ body {
   font-size: 1.5rem;
 }
 
-.main-nav {
+/* .main-nav {
   display: inline-block;
   width: calc(100% - 70px);
   text-align: right;
   vertical-align: middle;
-}
+} */
 
 .main-nav__item {
   margin: 0;
